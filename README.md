@@ -1,5 +1,5 @@
 # Word search game (mobile version!)
-This is a for of ...A word game which programming with HTML5 and Javascript.
+This is a fork of ...A word game which programming with HTML5 and Javascript.
 
 Main difference: Instead of using mouse dragging events, we use click events. This way, the game can be played
 on mobile (touch) devices)
